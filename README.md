@@ -1,7 +1,12 @@
 # SPOJ
-| ID   | S  | NAME   | KOD    | osób  | zaakceptowano |
-|------|----|--------|-------|-------|--------------|
-| 520  | S  | Dyzio  | DYZIO2 | 1368  | 18.19        |
+
+| ID   | S | NAME          | KOD      | osób: | zaakceptowano |
+|------|---|---------------|----------|------|--------------|
+| 520  | S | Dyzio         | DYZIO2   | 1369 | 18.20        |
+| 1293 | S | Dodawanie     | JSUMDUZE | 2863 | 37.46        |
+| 1346 | S | Łamacz gg     | JGGHACK  | 2763 | 39.25        |
+
+
 ## Dyzio
 
 <details>
@@ -60,6 +65,27 @@ Na wyjściu wydrukowana powinna być w każdym wierszu liczba naturalna, która 
 
 
 ## Łamacz gg
+
+<details>
+<summary><strong>Input</strong></summary>
+Na wejściu podana jest pewna liczba danych testowych. Każdy zestaw znajduje się w osobnej linii i składa się z 20 wielkich liter (A-P) stanowiących zaszyfrowane hasło do konta Gadu-Gadu.
+
+</details>
+<details>
+<summary><strong>Output</strong></summary>
+Na wyjściu wypisz hasła w odkodowanej postaci.
+
+</details>
+<details>
+<summary><strong>Example</strong></summary>
+  
+| Input                    | Output         |
+|--------------------------|-----------------|
+| BGCGDGEGFGGGHGIGJGKG     | abcdefghij     |
+| LGBGEHBGDHEHCHPGGGBG     | katastrofa     |
+| PGCGPGKHPGHHJGDHLGPG     | obozowisko     |
+
+</details>
 
 
 
