@@ -5,7 +5,7 @@
 ## Dyzio
 
 <details>
-<summary><strong>Wejście</strong></summary>
+<summary><strong>Input</strong></summary>
 Dane podawane są na standardowe wejście. W pierwszym wierszu podana jest liczba N (1 <= N <= 20,000) zestawów danych. Dalej podawane są zestawy danych zgodnie z poniższym opisem:
 
 <details>
@@ -15,8 +15,52 @@ W pierwszym i jedynym wierszu zestawu danych znajdują się dwie liczby a i b (2
 </details>
 </details>
 <details>
-<summary><strong>Wyjście</strong></summary>
+<summary><strong>Output</strong></summary>
 Wyniki programu powinny być wypisywane na standardowe wyjście. W kolejnych wierszach należy podać odpowiedzi obliczone dla kolejnych zestawów danych. Wynikiem dla jednego zestawu jest liczba liczb pierwszych znajdujących się w przedziale domkniętym [a, b].
 
 </details>
 </details>
+
+<details>
+  <summary><strong>Example</strong></summary>
+  
+  | Input | Output |
+|----------------|-------|
+| 2              |       |
+| 6 19           |  5    |
+| 12 50          |  10   |
+
+</details>
+
+
+## Dodawanie
+
+<details>
+<summary><b>Input</b></summary>
+Na wejściu w pierwszej linii zostaje podana liczba naturalna t, t nalezy do przedzialu 1..100, będącą ilością par liczb naturalnych, które należy dodać. W kolejnych wierszach t podane zostaną dwie liczby naturalne o maksymalnie 1000 cyfr, liczby oddzielone są spacją.
+
+</details>
+<details>
+<summary><b>Output</b></summary>
+Na wyjściu wydrukowana powinna być w każdym wierszu liczba naturalna, która jest wynikiem dodawania dwóch liczb naturalnych podanych na wejściu w odpowiednim wierszu.
+
+</details>
+<details>
+<summary><strong>Example</strong></summary>
+  
+| Input                                 | Output            |
+|---------------------------------------|-------------------|
+| 3                                     |                   |
+| 172 3498                             | 3670              |
+| 123456789 987654321                   | 1111111110        |
+| 1234567890123456789 12123343456567878909 | 13357911346691335698 |
+
+
+</details>
+
+
+## Łamacz gg
+
+
+
+
