@@ -5,7 +5,7 @@
 | 520  | S | Dyzio         | DYZIO2   | 1369 | 18.20        |
 | 1293 | S | Dodawanie     | JSUMDUZE | 2863 | 37.46        |    
 | 1346 | S | Łamacz gg     | JGGHACK  | 2763 | 39.25        |  
- 
+  
  
 ## Dyzio 
 
