@@ -7,7 +7,7 @@
 | 1346 | S | Łamacz gg     | JGGHACK  | 2763 | 39.25        |  
     
    
-## Dyzio   
+## Dyzio    
 
 <details>
 <summary><strong>Input</strong></summary>
